@@ -13,6 +13,5 @@
 
 - 🔭 Atualmente estou trabalhando na área de telecomunicações...
 - 🌱 No momento estou estudando Flutter...
-- 📫 Meu email para contato é: victorcassiano7@gmail.com
-- ⚡ Um grande apaixonado por tecnologia
+- ⚡ Um grande apaixonado por tecnologia.
 
